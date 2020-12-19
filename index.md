@@ -3,9 +3,10 @@
 layout: col-sidebar
 title: OWASP Islamabad
 tags: example-tag
-level: 0
 
 region: Middle East
+meetup-group: owasp-islamabad
+country: Pakistan
 
 auto-migrated: 1
 
@@ -29,7 +30,9 @@ Please change these items to indicate the actual information you wish to present
 Replace the text above the commented area with your information in the format below:
 ```
 ## Welcome
-Include some information here about your chapter
+OWASP Islamabad Chapter is established in the capital city of Pakistan and focuses on spreading awareness with regards to the latest Cyber Threats and related secure coding standards.
+
+If you are dealing with developing, assessing, challenging the code to address the security-related challenges pertaining to applications/web applications, or willing to invest your time in learning pertaining to secure coding best practices or wish to share your knowledge with others.. we welcome you to join us (meetups will be announced soon).
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
